@@ -29,10 +29,10 @@ sudo su - snode
 ### 1.2 Update and Upgrade Server
 Run the two following commands to update and upgrade your server.
 ```
-sudo apt update
+sudo apt-get update
 ```
 ```
-sudo apt upgrade
+sudo apt-get upgrade
 ```
 
 ## Step 2 - Loki Launcher
